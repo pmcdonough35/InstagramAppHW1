@@ -6,6 +6,8 @@ The purpose of this project is to practice creating a project using the Rails en
 
 * properly captioned screenshots of the main functionality you implemented
 ** Register,
+
+![Register](https://github.com/pmcdonough35/InstagramAppHW1/blob/master/Screen%20Shot%202017-09-10%20at%205.39.45%20PM.png)
 ** Login/Logout,
 ** Adding a new post,
 ** optional other features
