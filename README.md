@@ -5,6 +5,7 @@
 The purpose of this project is to practice creating a project using the Rails environment and to inspire myself to begin experimenting with it. Secifically, the project is an Instagram copy that allows the user to post pictures. I used the YouTube tutorial found at https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
 * properly captioned screenshots of the main functionality you implemented
+
 ** Register,
 
 ![Register1](https://github.com/pmcdonough35/InstagramAppHW1/blob/master/Screen%20Shot%202017-09-10%20at%205.57.51%20PM.png)
